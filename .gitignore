@@ -6,6 +6,10 @@
 *.user
 *.sln.docstates
 
+# IDE
+.vs/
+.idea/
+
 # Build results
 
 [Dd]ebug/
